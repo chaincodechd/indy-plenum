@@ -108,7 +108,6 @@ setup(
                         'sortedcontainers==1.5.7',
                         'psutil==5.4.3',
                         'pip<10.0.0',
-                        'portalocker==0.5.7',
                         'libnacl==1.6.1',
                         'six==1.11.0',
                         'psutil==5.4.3',
